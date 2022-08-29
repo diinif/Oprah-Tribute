@@ -1,1 +1,68 @@
-/* Copy and paste your CSS from CodePen into here */
+body{
+    font-family: Calibri; 
+ }
+ 
+ #main{
+     max-width: 79em;
+     text-align: center;
+     background-color: #c4c1e0;
+     margin: 1.5em auto;
+     border-radius: 0.3em;
+     padding: 1em auto;
+ }
+ 
+ #img-div{max-width: 78.25em;
+     margin: auto auto;
+     padding: 0.5em;
+     background-color: #ffffff;  
+     
+ }
+ 
+ 
+ img{
+     max-width: 100%;
+     display: block;
+     height: auto;
+     margin: auto;
+     background-color: #fff;
+ }
+ 
+ #img-caption{
+     max-width: 37em;
+     margin: 0 auto;
+     padding: 0.5em;
+  
+    font-size: 1.20em;
+    opacity: 0.9;
+    background-color: #ffffff;
+    
+ }
+ 
+ #tribute-info{ max-width: 35em;
+    text-align: left;
+    margin: auto;
+   
+     padding: 1.3em;
+    
+     font-weight: 500;
+     font-size: 1.3em;
+ }
+ li{
+     padding-bottom: 1.3em;
+     
+    
+ }
+ 
+ #title{
+     font-size: 5em;
+    line-height: normal;
+ padding-top: 0.5em;
+   
+ }
+ 
+ strong{
+     font-weight: bolder;
+     font-size: 1.1em;
+     
+ }
+ 
